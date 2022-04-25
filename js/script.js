@@ -1,5 +1,5 @@
 "use strict";
-alert('NOTE IMPORTANTI: \n ho dovuto caricare i file della cartella node modules mano quasi uno per uno perchè github non ne voleva sapere di caricare più di 100 file per volta qiondi non vorrei qualcosa fosse andato storto e non funzionasse per questo motivo \nho aggiunto parecchia grafica e usato un timer invece che un campo di input per scalare i soldi e simulare una chiamata quindi alcuni metodi potrebbero essere un pochino differenti da quelli dati dalla consegna\ngrazie per la pazienza! e buona giornata')
+alert('NOTE IMPORTANTI: \n ho dovuto caricare i file della cartella node modules a mano, quasi uno per uno, perchè github non ne voleva sapere di caricare più di 100 file per volta qiondi non vorrei qualcosa fosse andato storto e non funzionasse per questo motivo \nho aggiunto parecchia grafica e usato un timer invece che un campo di input per scalare i soldi e simulare una chiamata quindi alcuni metodi potrebbero essere un pochino differenti da quelli dati dalla consegna\ngrazie per la pazienza e buona giornata!')
 class User {
     constructor(carica, numeroChiamate) {
         this.carica = 0;
